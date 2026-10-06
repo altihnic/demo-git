@@ -5,4 +5,8 @@ public class UserService {
     public void helloWorld(){
         System.out.println("HelloWorld");
     }
-}
+
+    public String abc()
+    {
+        return "abc";
+    }}
