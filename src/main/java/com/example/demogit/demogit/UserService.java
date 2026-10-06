@@ -1,4 +1,8 @@
 package com.example.demogit.demogit;
 
 public class UserService {
+
+    public void helloWorld(){
+        System.out.println("HelloWorld");
+    }
 }
